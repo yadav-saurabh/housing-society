@@ -9,7 +9,7 @@
     "clean": "rm -rf dist"
   },
   "devDependencies": {
-    "@types/react": "^18.2.38",
+    "@types/react": "^18.2.45",
     "@types/react-native": "^0.72.7",
     "@repo/typescript-config": "*",
     "tsup": "^8.0.1",
