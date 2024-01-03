@@ -1,6 +1,7 @@
 import Link from "next/link";
 
 import { buttonVariants } from "@/components/ui/button";
+import { Footer } from "@/components/footer";
 import { siteConfig } from "@/config/site";
 import { cn } from "@/lib/utils";
 
@@ -40,6 +41,7 @@ export default function Web() {
           </div>
         </section>
       </main>
+      <Footer />
     </div>
   );
 }
